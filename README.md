@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/NikhilChafekar-QA/QA-Portfolio/main/Nikhil_Qa_Banner.png" width="20%">
 </p>
 
-# 🚀 QA Portfolio – Nikhil Chafekar: Software Testing
+#  QA Portfolio – Nikhil Chafekar: Software Testing
 
 Welcome to my professional QA Portfolio, a showcase of real-world testing artifacts. This repository demonstrates my comprehensive skills across the Software Testing Life Cycle (STLC) by featuring structured test cases, Jira-style bug reports, detailed test plans, and project documentation.
 
 ---
 
-## 🧑‍💻 Professional Summary
+##  Professional Summary
 
 I am a results-driven **Manual Test Engineer with 2+ years of experience** specializing in the quality assurance of high-traffic web applications, particularly within the **E-commerce domain**. My expertise lies in designing robust test coverage, identifying critical defects early, and contributing effectively to Agile/Scrum teams. I maintain a strong focus on enhancing user experience through thorough functional and UI verification.
 
@@ -23,7 +23,7 @@ I am a results-driven **Manual Test Engineer with 2+ years of experience** speci
 
 ---
 
-## 🛠 Skills & Tools Ecosystem
+##  Skills & Tools Ecosystem
 
 Here are the key tools and testing disciplines I utilize daily:
 
@@ -49,7 +49,7 @@ Here are the key tools and testing disciplines I utilize daily:
 
 ---
 
-## 🧭 Portfolio Navigation: Explore My Work
+##  Portfolio Navigation: Explore My Work
 
 Quick links to the most critical artifacts—recruiters love easy navigation!
 
@@ -63,7 +63,7 @@ Quick links to the most critical artifacts—recruiters love easy navigation!
 
 ---
 
-## ⭐ Featured Project: BestBuy E-commerce Testing
+##  Featured Project: BestBuy E-commerce Testing
 
 This project demonstrates my ability to provide full-cycle QA support for a complex E-commerce application.
 
