@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/NikhilChafekar-QA/QA-Portfolio/main/Nikhil_Qa_Banner.png" width="20%">
 </p>
 
-# 🚀 QA Portfolio – Nikhil Chafekar: Manual & Functional Testing Specialist
+# 🚀 QA Portfolio – Nikhil Chafekar: Software Testing
 
 Welcome to my professional QA Portfolio, a showcase of real-world testing artifacts. This repository demonstrates my comprehensive skills across the Software Testing Life Cycle (STLC) by featuring structured test cases, Jira-style bug reports, detailed test plans, and project documentation.
 
