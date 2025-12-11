@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NikhilChafekar-QA/QA-Portfolio/main/Nikhil_Qa_Banner.png" width="300">
+  <img src="https://raw.githubusercontent.com/NikhilChafekar-QA/QA-Portfolio/main/Nikhil_Qa_Banner.png" width="20%">
 </p>
 
 # 🚀 QA Portfolio – Nikhil Chafekar: Manual & Functional Testing Specialist
@@ -10,16 +10,16 @@ Welcome to my professional QA Portfolio, a showcase of real-world testing artifa
 
 ## 🧑‍💻 Professional Summary
 
-I am a results-driven **Manual Test Engineer with 2+ years of experience** specializing in the quality assurance of high-traffic web applications, particularly within the E-commerce domain. My expertise lies in designing robust test coverage, identifying critical defects early, and contributing effectively to Agile/Scrum teams. I maintain a strong focus on enhancing user experience through thorough functional and UI verification.
+I am a results-driven **Manual Test Engineer with 2+ years of experience** specializing in the quality assurance of high-traffic web applications, particularly within the **E-commerce domain**. My expertise lies in designing robust test coverage, identifying critical defects early, and contributing effectively to Agile/Scrum teams. I maintain a strong focus on enhancing user experience through thorough functional and UI verification.
 
 ### **Core Competencies**
-| Area | Expertise |
-| :--- | :--- |
-| **Testing Techniques** | Functional, Regression, Smoke, Sanity, UI/UX, End-to-End, Cross-Browser Testing |
-| **Test Design** | Test Case Design, Scenario Creation, Requirements Traceability Matrix (RTM) |
-| **Process & Methodologies**| Strong command of **SDLC, STLC, and Agile/Scrum** frameworks |
-| **Defect Management** | Detailed Defect Reporting, Lifecycle Management, Root Cause Analysis |
-| **Technical Skills** | Basic **API Testing (Postman)**, Browser DevTools Analysis, Excel Data Management |
+| Area | Expertise | Value |
+| :--- | :--- | :--- |
+| **Testing Techniques** | Functional, Regression, Smoke, Sanity, UI/UX, End-to-End, Cross-Browser Testing | **Ensuring production stability across platforms.** |
+| **Test Design** | Test Case Design, Scenario Creation, Requirements Traceability Matrix (RTM) | **Maximizing test coverage with minimal duplication.** |
+| **Process & Methodologies**| Strong command of **SDLC, STLC, and Agile/Scrum** frameworks | **Seamless integration into fast-paced development cycles.** |
+| **Defect Management** | Detailed Defect Reporting, Lifecycle Management, Root Cause Analysis | **Rapid, reproducible, and effective bug tracking (Jira).** |
+| **Technical Skills** | Basic **API Testing (Postman)**, Browser DevTools Analysis, Excel Data Management | **Validating backend services and front-end errors.** |
 
 ---
 
@@ -51,29 +51,38 @@ Here are the key tools and testing disciplines I utilize daily:
 
 ## 🧭 Portfolio Navigation: Explore My Work
 
-Quick links to the most critical artifacts:
+Quick links to the most critical artifacts—recruiters love easy navigation!
 
 | Artifact | Purpose & Value | Folder Link |
-| :--- | :--- | :--- |
-| **Test Cases** | Detailed module-wise test cases covering **positive, negative, and boundary** scenarios. | [Go to Folder](/Test-Cases) |
-| **Bug Reports** | Examples of **professionally written defects** following Jira standards (repro steps, severity/priority). | [Go to Folder](/Bug-Reports) |
-| **Test Scenarios** | High-level, **end-to-end user flows** covering critical business paths (e.g., Checkout). | [Go to Folder](/Test-Scenarios) |
-| **Test Plan** | A comprehensive test plan outlining **strategy, scope, and deliverables** for an e-commerce platform. | [Go to Folder](/Test-Plan) |
-| **Project Work** | Detailed testing documentation for the **BestBuy e-commerce website**. | [Go to Project](/Projects/BestBuy-Testing) |
+| :---: | :--- | :--- |
+| **📝 Test Cases** | Detailed module-wise test cases covering **positive, negative, and boundary** scenarios. | [Go to Folder](/Test-Cases) |
+| **🐞 Bug Reports** | Examples of **professionally written defects** following Jira standards (repro steps, severity/priority). | [Go to Folder](/Bug-Reports) |
+| **🗺️ Test Scenarios** | High-level, **end-to-end user flows** covering critical business paths (e.g., Checkout). | [Go to Folder](/Test-Scenarios) |
+| **🗓️ Test Plan** | A comprehensive test plan outlining **strategy, scope, and deliverables** for an e-commerce platform. | [Go to Folder](/Test-Plan) |
+| **🛒 Project Work** | Detailed testing documentation for the **BestBuy e-commerce website**. | [Go to Project](/Projects/BestBuy-Testing) |
 
 ---
 
 ## ⭐ Featured Project: BestBuy E-commerce Testing
 
-This section highlights my contributions to quality assurance for an E-commerce web application, demonstrating practical application of my skills.
+This project demonstrates my ability to provide full-cycle QA support for a complex E-commerce application.
 
-| Aspect | Details & Value |
-| :--- | :--- |
-| **Scope of Testing** | Covered core business workflows: **Login, Search, Cart, Checkout, Payment, and Order Confirmation**. |
-| **Key Achievements** | Designed and executed **100+ robust test cases**. |
-| **Defect Management** | Responsible for logging and tracking defects in **Jira** with accurate severity and priority classifications. |
-| **Technical Engagement** | Performed **API testing** for backend service verification using **Postman**. |
-| **Quality Assurance** | Maintained a **Requirements Traceability Matrix (RTM)** to ensure 100% requirement coverage. |
+#### **Modules Tested (Critical Paths)**
+- Login & Authentication
+- Product Search & Filtering
+- Shopping Cart Operations
+- Secure Checkout Process
+- Payment Gateways & Order Confirmation
+
+#### **Key Contributions & Responsibilities**
+* **Test Design:** Designed and executed **100+ robust test cases**, ensuring deep functional coverage.
+* **Defect Management:** Successfully logged defects in **Jira**, providing clear reproduction steps and necessary attachments to accelerate fix time.
+* **Traceability:** Maintained a **Requirements Traceability Matrix (RTM)** to ensure 100% of user stories were validated.
+* **API Testing:** Performed **API testing using Postman** to verify data integrity and service layer functionality.
+* **Reporting:** Regularly executed **Smoke, Sanity, and Regression** cycles, reporting results to the Scrum team.
+
+#### **Tools Used**
+`Jira` &bull; `Postman` &bull; `Chrome DevTools` &bull; `MS Excel`
 
 ---
 
