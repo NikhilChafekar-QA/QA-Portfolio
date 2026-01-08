@@ -90,7 +90,7 @@ This project demonstrates my ability to provide full-cycle QA support for a comp
 
 I am actively seeking Manual QA Engineer roles and welcome connection requests or job inquiries.
 
-* **Email:** `nikhil.chafekar325@gmail.com`
+* **Email:** `nikhilc1095@gmail.com`
 * **Phone:** `9763232722`
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/feed/)
 
