@@ -10,7 +10,7 @@ Welcome to my professional QA Portfolio, a showcase of real-world testing artifa
 
 ##  Professional Summary
 
-I am a results-driven **Manual Test Engineer with 2+ years of experience** specializing in the quality assurance of high-traffic web applications, particularly within the **E-commerce domain**. My expertise lies in designing robust test coverage, identifying critical defects early, and contributing effectively to Agile/Scrum teams. I maintain a strong focus on enhancing user experience through thorough functional and UI verification.
+I am a results-driven **Manual Test Engineer with 1.6 years of experience** specializing in the quality assurance of high-traffic web applications, particularly within the **E-commerce domain**. My expertise lies in designing robust test coverage, identifying critical defects early, and contributing effectively to Agile/Scrum teams. I maintain a strong focus on enhancing user experience through thorough functional and UI verification.
 
 ### **Core Competencies**
 | Area | Expertise | Value |
